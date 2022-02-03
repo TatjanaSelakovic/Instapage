@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.logo img{
+    width: 150px;
+    margin-top: 20px;
+}
+
+.getStarted {
+    margin-top: 40px;
+}
+
+.getStarted a{
+    text-decoration: none;
+    background: darkblue;
+    color: white;
+    padding: 10px 20px;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first h1{
+    margin-top: 140px;
+    padding: 0 20px 20px 0;
+    font-size: 41px;
+}
+
+.paragraph {
+    color: rgb(48, 45, 45);
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: 0.3;
+}
+
+.second img{
+    width: 600px;
+}
+
+.leftText{
+    margin-right: 90px;
+    padding-right: 100px;
+    margin-top: 100px;
+}
+
+.link{
+    text-decoration: none;
+    background: darkblue;
+    color: white;
+    padding: 15px 50px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.pedingTop{
+    padding-top: 100px;
+}
+
+.title1 h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.smallH{
+    margin-bottom: 15px;
+}
+
+.rightText{
+    margin-top: 90px;
+    margin-left: 150px;
+    padding: 0 20px 20px 0;
+}
+
+.headin{
+    margin-top: 15px;
+    font-size: 37px;
+    margin-bottom: 20px;
+}
+
+.paragraph1{
+color: rgb(48, 45, 45);
+line-height: 1.5;
+font-size: 18px;
+padding-right: 25px;
+}
+
+.pics2 img{
+    width: 576px;
+}
+
+.pic1{
+    display: block;
+    margin: auto;
+    padding: 40px 0;
+    width: 130px;
+}
+
+.pic2{
+    width: 120px;
+    border-radius: 70px;
+}
+
+.tamar{
+    text-align: center;
+}
+
+.tamar p{
+    padding: 0px 220px 40px 220px;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+    color: rgb(36, 36, 116);
+}
+
+.hTrojka{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.hTrojka1{
+    color: rgb(128, 120, 120);
+    margin-bottom: 100px;
+}
+
+.tamar2{
+    text-align: center;
+    padding: 100px 300px;
+    font-size: 17px;
+}
+
+.tamar2 p{
+    margin-top: 20px;
+}
+
+.liste{
+    display: flex;
+}
+
+.prva{
+    width: 25%;
+    padding-bottom: 40px;
+}
+
+.prva a{
+    text-decoration: none;
+    color: rgb(63, 59, 59);
+}
+.prva ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.prva li{
+    padding: 7px 0;
+}
+.prva h3{
+    margin-bottom: 20px;
+}
+
+.icons img{
+    width: 30px;
+}
+
+.navBarIcons{
+    padding-top: 30px;
+    margin-bottom: 50px;
+}
+
+.potpis{
+    color: darkgray;
+}
+
+
+
+
+
+
+
+
